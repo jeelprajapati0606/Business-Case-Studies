@@ -1,0 +1,21 @@
+💡 Insights for Smart City Energy Data:-
+
+1. Which zones are energy hotspots or inefficient?
+
+Ans. Central and North zones are the major energy hotspots 
+with higher power consumption and outage levels.
+
+2. What consumer type uses the most power?
+
+Ans. Industrial consumers use the highest amount of electricity 
+among all consumer types.
+
+3. Are certain times/days correlated with high peak usage?
+
+Ans. Peak energy usage is generally higher during weekdays due to 
+commercial and industrial activities.
+
+4. Are there areas with unreliable power supply (frequent outages)?
+
+Ans. Some zones experience frequent outages,
+indicating unreliable power supply and infrastructure issues.
