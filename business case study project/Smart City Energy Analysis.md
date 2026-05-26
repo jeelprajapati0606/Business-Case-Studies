@@ -163,12 +163,9 @@ Overall, the project demonstrates how data analytics and visualization can help 
 
 ---
 
-# 🎥 Project Demo Video
+## 🎥 Project Demo Video
 
-video link here.
-
-
-[Watch Project Demo](video-link-here)
+[▶ Watch Project Demo](https://drive.google.com/file/d/1fk16bO2VxaINjDY22EKKBmQ0BwO2YF0s/view?usp=sharing)
 
 
 ---
