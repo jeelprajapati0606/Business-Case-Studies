@@ -63,10 +63,32 @@ The dataset contains smart meter records from multiple city zones.
 
 The dataset was analyzed to:
 - Calculate total and average energy consumption
+- 
+ <img width="621" height="183" alt="image" src="https://github.com/user-attachments/assets/8abf3561-1d16-4656-9c37-519ba3563d89" />
+
 - Identify high-energy consumers
+
+<img width="622" height="233" alt="image" src="https://github.com/user-attachments/assets/3b377892-cfa2-430e-8e57-a08f8526f572" />
+
 - Study monthly consumption trends
-- Monitor outage-prone areas
-- Analyze energy efficiency across zones
+  
+<img width="621" height="211" alt="image" src="https://github.com/user-attachments/assets/63e7b089-feab-4dec-ad25-cbf70661a6e5" />
+
+- Calculate average cost per zone
+
+  <img width="681" height="150" alt="image" src="https://github.com/user-attachments/assets/4f7d6971-f9b6-4dd9-a073-28588cf99622" />
+
+- List meters with highest number of faults or outages.
+
+  <img width="619" height="243" alt="image" src="https://github.com/user-attachments/assets/3bab1206-5e94-4664-9305-cef493d53b16" />
+
+- Determine zones with lowest energy efficiency.
+
+<img width="610" height="210" alt="image" src="https://github.com/user-attachments/assets/4ac70091-8bf6-490b-94fd-94b753d81ba2" />
+
+- Detect patterns of peak usage during weekdays vs weekends.
+
+  <img width="584" height="271" alt="image" src="https://github.com/user-attachments/assets/136ee430-5ac5-4e6c-a587-49954f405118" />
 
 ---
 
@@ -160,6 +182,8 @@ Overall, the project demonstrates how data analytics and visualization can help 
 # 📷 Dashboard Preview
 
 <img width="1025" height="665" alt="image" src="https://github.com/user-attachments/assets/06c802ad-ac8f-4d67-8d37-bc05f31956b1" />
+
+<img width="979" height="844" alt="image" src="https://github.com/user-attachments/assets/552c277b-f463-4c13-9bd9-e9e5014810e7" />
 
 ---
 
